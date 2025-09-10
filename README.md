@@ -30,7 +30,7 @@
 <div align="center">
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=6000&color=00FF00&background=000000&center=true&vCenter=true&width=600&lines=⚡+MALVIN+XD+BETTER+OPTION;🔥+THE+MOST+POWERFUL+WHATSAPP+BOT;💻+DEVELOPER+BY+MR+XDKING2;🚀+MALVIN-BXD+SOLUTIONS;🌈+FAST+⚡+SECURE+🔒+RELIABLE+✅" alt="Typing Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=6000&color=00FF00&background=000000&center=true&vCenter=true&width=600&lines=⚡+MALVIN+XD+BETTER+OPTION;🔥+THE+MOST+POWERFUL+WHATSAPP+BOT;💻+DEVELOPER+BY+MR+XP个BE_RAHM;🚀+XP个BE_XDKING+SOLUTIONS;🌈+FAST+⚡+SECURE+🔒+RELIABLE+✅" alt="Typing Animation">
 </h1>
 
 
